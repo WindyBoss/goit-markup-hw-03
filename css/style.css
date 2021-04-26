@@ -160,7 +160,6 @@ ul {
 
 .contact-info .phone {
   margin-right: 0;
-
   color: var(--primary-text-color);
 }
 
@@ -304,6 +303,7 @@ ul {
 
 /* Footer */
 .footer {
+  width: 1600px;
   background: var(--section-bg-color);
 }
 
