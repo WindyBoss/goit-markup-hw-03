@@ -304,6 +304,7 @@ ul {
 
 /* Footer */
 .footer {
+  width: 1600px;
   background: var(--section-bg-color);
 }
 
